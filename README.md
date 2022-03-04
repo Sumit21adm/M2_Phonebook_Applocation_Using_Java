@@ -1,1 +1,1 @@
-# M2_Phonebook_Applocation_Using_Java
+# M2_Phonebook_Java
