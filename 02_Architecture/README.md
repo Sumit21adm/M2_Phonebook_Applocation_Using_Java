@@ -1,8 +1,8 @@
 ### Structural, Behavioural and Workflow Diagrams
 	
-![Structural Diagram](https://github.com/Sumit21adm/M1_ProjectGoal_Phone_Book_Application_Using_C_Programming/blob/5634a012bb9b488e610e7a20db0baba6dd565ee5/2_Architecture/Structural%20Diagram.jpeg "Structural Diagram")
+![Structural Diagram](https://github.com/Sumit21adm/M2_Phonebook_Java/blob/9bdf3b60053d649905e4f408741b62a620dbafae/02_Architecture/Structural%20Diagram.jpeg "Structural Diagram")
 
-![Behaviour Diagram](https://github.com/Sumit21adm/M1_ProjectGoal_Phone_Book_Application_Using_C_Programming/blob/5634a012bb9b488e610e7a20db0baba6dd565ee5/2_Architecture/Behavioural%20Diagram.jpeg "Behaviour Diagram")
+![Behaviour Diagram](https://github.com/Sumit21adm/M2_Phonebook_Java/blob/9bdf3b60053d649905e4f408741b62a620dbafae/02_Architecture/Behavioural%20Diagram.jpeg "Behaviour Diagram")
 ### Workflow Diagram
-![Workflow Diagram](https://github.com/Sumit21adm/M1_ProjectGoal_Phone_Book_Application_Using_C_Programming/blob/5634a012bb9b488e610e7a20db0baba6dd565ee5/2_Architecture/Workflow.jpg "Workflow Diagram")
+![Workflow Diagram](https://github.com/Sumit21adm/M2_Phonebook_Java/blob/9bdf3b60053d649905e4f408741b62a620dbafae/02_Architecture/Workflow.jpg "Workflow Diagram")
 
