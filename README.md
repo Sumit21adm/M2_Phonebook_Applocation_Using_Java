@@ -1,4 +1,7 @@
 # PhoneBook Application - JAVA
+| Code Quality Score | Code Grade |
+| --------------- | --------------- |
+| [![Code Quality Score](https://api.codiga.io/project/31919/score/svg)](https://www.codiga.io) | [![Code Grade](https://api.codiga.io/project/31919/status/svg)](https://www.codiga.io)|
 
 ## **Description**
 	A PhoneBook Application Using JAVA, is a mini project. PhoneBook from the Command Prompt, picks up new data from users and
