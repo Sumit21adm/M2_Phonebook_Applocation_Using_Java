@@ -1,6 +1,4 @@
-# M2_Phonebook_Java
 # PhoneBook Application - JAVA
-
 # **Description**
 	A PhoneBook Application Using JAVA, is a mini project. PhoneBook from the Command Prompt, picks up new data from users and
 	manipulate them, A user can add new contacts, Read all saved contacts through list(collection). The phone book contains such data
